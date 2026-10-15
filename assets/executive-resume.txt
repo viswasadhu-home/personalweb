@@ -1,0 +1,28 @@
+EXECUTIVE TECHNOLOGY LEADERSHIP
+Enterprise IT | Global Program Management | Observability | Generative AI
+Hyderabad, India | Global Reach
+
+EXECUTIVE PROFILE
+Technology leader with 25+ years of experience spanning enterprise IT,
+global program management, observability, infrastructure modernization,
+and generative AI solutions.
+
+SELECTED EXPERIENCE
+- Led a six-month global observability implementation for a multinational
+  beverage enterprise.
+- Coordinated major incident response across global hubs in India and Europe.
+- Developed 4+ enterprise GenAI solutions for IT and engineering workflows.
+
+AREAS OF LEADERSHIP
+- Enterprise observability, telemetry strategy, and SLO frameworks
+- Global program governance and cross-region delivery
+- ITIL workflow automation and practical GenAI adoption
+- Infrastructure modernization and operational resilience
+
+TECHNOLOGY
+New Relic | Microsoft Azure | Microsoft Graph | TypeScript | VS Code APIs
+Power Automate | ITIL | Service-level objectives
+
+CONTACT
+Hyderabad, India | Global Reach
+LinkedIn and GitHub profile URLs to be added.
